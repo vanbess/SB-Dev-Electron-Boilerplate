@@ -1,9 +1,4 @@
-# Silverback Dev Updated Electron Boilerplate
-
-*<strong>IMPORTANT: While this boilerplate is a great foundation as is for your Electron.js project, I found several vulnerabilities and/or packages installed which are not being maintained anymore, and thus for which there will not be any security patches forthcoming in the future. As a result, I decided to create an updated version of this boilerplate which (a) uses the latest versions of required dependencies (dev and otherwise) and (b) replaces unmaintained packages with alternatives. I think this gives a better jumping off point for building Electron apps in 2024, so hopefully you find this useful.</strong>*
-
-***
-***
+# Silverback Dev Electron Boilerplate
 
 > Boilerplate to kickstart creating an app with [Electron](https://github.com/electron/electron)
 
