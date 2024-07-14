@@ -27,14 +27,6 @@ See [Caprine](https://github.com/sindresorhus/caprine) for a production app base
 
 **Click the green "Use this template" button at the top of this page to create your own repo based on this one, or open this repo in a codespace.**
 
-Alternatively, create a new directory and then run:
-
-```sh
-curl -fsSL https://github.com/sindresorhus/electron-boilerplate/archive/main.tar.gz | tar -xz --strip-components 1
-```
-
-There's also a [Yeoman generator](https://github.com/sindresorhus/generator-electron).
-
 ---
 
 **Remove everything from here and above**
