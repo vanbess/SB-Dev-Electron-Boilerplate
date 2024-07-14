@@ -24,7 +24,7 @@ See [Caprine](https://github.com/sindresorhus/caprine) for a production app base
 
 ---
 
-**Remove everything from here and above**
+**^^^ REMOVE EVERYTHING ABOVE THIS LINE. SETUP YOUR APP README USING THE STARTER TEXT BELOW. ^^^**
 
 ---
 
