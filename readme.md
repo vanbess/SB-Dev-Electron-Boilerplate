@@ -25,7 +25,7 @@ See [Caprine](https://github.com/sindresorhus/caprine) for a production app base
 
 ## Getting started
 
-**Click the "Use this template" button.**
+**Click the green "Use this template" button at the top of this page to create your own repo based on this one, or open this repo in a codespace.**
 
 Alternatively, create a new directory and then run:
 
